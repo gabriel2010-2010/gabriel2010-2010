@@ -5,6 +5,9 @@ Código 1
 
 
 # 👋 Olá, eu sou gabriel gomes
+
+<img align='center' src="https://https://github.com/gabriel2010-2010/gabriel2010-2010/blob/6366c1cb700081c4e2502fddb7a989ef15638983/octocat-1765889063155.png" width="215">
+
 ## 🚀 Sobre mim
 - 🎓 Estudante de Desenvolvimento de Sistemas  
 - 💻 Experiência em projetos acadêmicos e pessoais com Java, Python  
